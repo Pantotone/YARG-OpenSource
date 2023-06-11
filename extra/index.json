@@ -2,7 +2,7 @@
 	"type": "extra",
 	"sources": [
 		{
-			"ids": [ "custom", "customs" ],
+			"ids": [ "custom", "customs", "djhero" ],
 			"names": {
 				"en-US": "Custom Songs"
 			},
@@ -14,7 +14,7 @@
 			"names": {
 				"en-US": "DJ Hero"
 			},
-			"icon": "djhero",
+			"icon": "ThisIconDoesntExist",
 			"type": "game"
 		},
 		{
